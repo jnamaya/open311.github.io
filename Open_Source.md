@@ -74,7 +74,7 @@ CRM and Case Management
 -   <http://otrs.org/>
 -   <http://sitracker.org/>
 -   <http://sourceforge.net/projects/hipergate/>
--   More at <http://www.opensourcehelpdesklist.com/>
+-   More at https://supporthelpdesksoftware.com/open-source
 -   More at <http://wiki.civiccommons.org/Collaboration_Platforms#Issue_Reporting>
 
 Telephony
